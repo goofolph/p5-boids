@@ -5,8 +5,12 @@ Implementation of boid flocking as described by Craig Reynolds. See
 
 This uses [p5.js](https://p5js.org/) library for graphics.
 
+Boids are a simulation of birds demonstrating flocking behaviors observed in birds.
+
 ## Usage:
 
-Open index.html in any javascript enabled browser.
+* Download from [here](https://github.com/goofolph/p5-boids/archive/refs/heads/master.zip).
+* Extract the archive.
+* Open the extracted folder and open `index.html` in any browser.
 
-To spawn boids click the mouse anywhere on the page.
+To spawn boids click or hold the left mouse button anywhere on the page.
